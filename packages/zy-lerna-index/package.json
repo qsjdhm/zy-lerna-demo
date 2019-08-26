@@ -1,6 +1,6 @@
 {
-  "name": "zy-module1",
-  "version": "0.0.1",
+  "name": "zy-lerna-index",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cross-env": "^5.2.0"
+    "cross-env": "^5.2.0",
+    "zy-module1": "^0.0.1"
   }
 }
